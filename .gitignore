@@ -1,0 +1,5 @@
+aws_database
+aws_database.txt
+*.pem
+*.key
+.env
